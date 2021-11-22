@@ -16,6 +16,8 @@ The target for this project is `TARGET_FLAG`
 
 The project should be shared via a github, gitlab or any other public git repository kept available until the end of the technical interview.
 
+Notebooks should be saved with outputs.
+
 ## Duration
 
 Preparing the test should take 2 to 4 hours.
